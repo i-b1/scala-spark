@@ -1,5 +1,63 @@
 # CCA175
 
+Table of Contents
+
+CCA175        1
+
+Cheat sheet        1
+
+Reading files        1
+
+Writing files        1
+
+Transformation        3
+
+Dealing with Hive        3
+
+Sqoop        5
+
+File Formats        7
+
+Exercises        8
+
+Problem 1        8
+
+Problem 2        8
+
+Problem 3        8
+
+Problem 4        9
+
+Problem 5        9
+
+Problem 6        10
+
+Problem 7        11
+
+Problem 8        12
+
+Problem 9        13
+
+arun-teaches-u-tech.blogspot.com        14
+
+Scenario 1        14
+
+Scenario 2        15
+
+Scenario 3        16
+
+Scenario 4        17
+
+Scenario 6        18
+
+itversity        20
+
+Exercise 02        20
+
+Exercise 15        21
+
+Using spark-submit        21
+
 ## Cheat sheet
 
 Use Zooming (Ctrl + ) and Copy-Paste ( ctrl+shift+c and ctrl+shift+v)
@@ -17,8 +75,6 @@ spark2-shell --master yarn --packages com.databricks:spark-avro\_2.11:4.0.0
 --executor-cores 2
 
 --executor-memory 3G
-
-Reading files
 
 
 Reading files
